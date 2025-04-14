@@ -51,7 +51,7 @@ box-sizing: border-box;
 
 .container__botao{
     display: block;
-    border-radius: 0.3125em;
+    border-radius: 5px;
     background-color: var(--botao-azul);
     color: var(--branco-principal);
     padding: 1em;
@@ -80,7 +80,7 @@ width: 80%;
 }
 
 .container__titulo{
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 700;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
@@ -127,7 +127,7 @@ width: 80%;
 .rodape__logo{
     display: block;
     margin: auto;
-    margin-top: 1.562em;
+    margin-top: 25px;
 }
 
 .rodape__lista{
@@ -161,7 +161,7 @@ width: 80%;
 .rodape__texto__um{
     text-align: center;
     margin: 2em;
-    font-size: 1.4em;
+    font-size: 14px;
     color: var(--cinza-secundario);
 
 }
@@ -170,7 +170,7 @@ width: 80%;
     text-align: center;
     margin: 2em;
     margin-bottom: 8em;
-    font-size: 1.4em;
+    font-size: 14px;
     color: var(--cinza-secundario);
 
 }
